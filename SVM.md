@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 1. The original idea for SVM is to find a hyper-plane to separate two classes most.
 1. We know a normal vector（法向向量）can represent a hyper-plane, then it is equivalent to:
-$min\ \|\|w\|\|^{2} $ and $max\ min y_{i}(W\x_{i}-b)$
+$min\ \|\|w\|\|^{2} $ and $max\ min y_{i}(Wx_{i}-b)$
